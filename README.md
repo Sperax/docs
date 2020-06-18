@@ -7,7 +7,7 @@ This site is for anyone who wants to learn about Sperax. Go to:
 > 2.0 [Why Sperax BDLS](#why-sperax-bdls) <br/>
 > 3.0 [Token Economy](#token-economy) <br/>
 > 4.0 [Keep Up With Sperax](#keep-up-with-sperax) <br/>
-> ### You are also welcome to read our [academic publications](docs/Paper/). ###
+> ### You are also welcome to read our [academic publications](docs/Paper). ###
 
 
 ## 1.0 ## 
